@@ -1,6 +1,4 @@
-### Olá! Eu sou o Luis ✋
-
-- 🌱 Atualmente estudando e fazendo projetos em JavaScript
+### Olá! ✋🌱
 
 <div>
   <a href="https://github.com/luisccsjr">
